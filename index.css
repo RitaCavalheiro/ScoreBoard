@@ -1,0 +1,66 @@
+body {
+   background: linear-gradient(54deg, rgb(0, 16, 11) 0%, rgb(6, 52, 34) 100%);
+}
+.container {
+    width: 575px;
+    height: 385px;
+    margin: 50px;
+    background: #064E3B;
+    border-radius: 50px;
+    box-shadow: 10px 10px 27px 2px rgba(0, 0, 0, 0.2);
+}
+
+.titles {
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 30px;
+    font-family: 'Verdana';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: #EEEEEE;
+}
+
+.counter {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    margin: 0 auto;
+    text-align: center;
+    background: #080001;
+    border-radius: 5px;
+}
+
+.result {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+.buttons {
+    margin: 10px;
+}
+
+.points {
+    font-family: 'Cursed Timer ULiL';
+    background: #064E3B;
+    color: #A7F3D0;
+    border: 2px solid #a7f3d0;
+    border-radius: 5px;
+    margin: 0 auto;
+    font-size: 18px;
+    }
+    
+.reset {
+    font-family: 'Cursed Timer ULiL';
+    background: #a7f3d0;
+    color: #064E3B;
+    border: 2px solid #a7f3d0;
+    border-radius: 5px;
+    font-size: 20px;
+    }
